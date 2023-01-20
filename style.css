@@ -26,3 +26,7 @@ h1 {
 .img {
   border: 2px solid black;
 }
+#licoes_aprendidas{
+    padding: 40px;
+    border: 1px solid green;
+}
