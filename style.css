@@ -4,8 +4,6 @@
   font-family: "Montserrat", sans-serif;
   line-height: 30px;
 }
-
-
 body {
   background-color: rgb(253, 251, 251);
 }
@@ -28,16 +26,23 @@ h1 {
 .img {
   border: 2px solid black;
 }
-#licoes_aprendidas{
-    padding: 40px;
-    border: 1px solid green;
+#licoes_aprendidas {
+  padding: 40px;
+  border: 1px solid green;
 }
-#licoes_a_aprender{
-    padding: 40px;
-    border: 1px solid rgb(201, 6, 126);
+#licoes_a_aprender {
+  padding: 40px;
+  border: 1px solid rgb(201, 6, 126);
 }
-#rodape{
-    text-align: center;
-    font-size: 30px;
-    border: 1px solid rgb(48, 6, 201);
+#rodape {
+  text-align: center;
+  font-size: 30px;
+  border: 1px solid rgb(48, 6, 201);
+}
+.lado-esquerdo{
+    display: inline-block;
+}
+.lado-direito  {
+    float: right;
+    border: 1px solid slateblue;
 }
