@@ -1,12 +1,28 @@
-*{
-    margin: 0;
-    padding: 0;
-    font-family: 'Montserrat', sans-serif;;
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Montserrat", sans-serif;
 }
 
-body{
-    background-color: rgb(253, 251, 251);
+body {
+  background-color: rgb(253, 251, 251);
 }
-#cabecalho{
-    position: fixed;
+#cabecalho {
+  position: fixed;
+  border: 1px solid black;
+  width: 100%;
+  text-align: center;
+  padding: 40px 20px;
+  background-color: green;
+}
+h1 {
+  color: white;
+}
+#minha_foto {
+  width: 200px;
+  padding: 40px;
+  border: 2px solid red;
+}
+.img {
+  border: 2px solid black;
 }
